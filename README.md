@@ -1,1 +1,3 @@
 I want to play a game...
+
+cmatrix -C magenta -s && sh passbox.sh
