@@ -12,7 +12,7 @@ do
       cat passbox.5.txt && sleep 4 &&
       break
     fi
-    cmatrix -C magenta -s && sh passbox.sh
+    cmatrix -C red -s && sh passbox.sh
     break
   fi
 done

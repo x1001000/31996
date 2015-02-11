@@ -1,3 +1,4 @@
 I want to play a game...
 
-cmatrix -C magenta -s && sh passbox.sh
+setterm -foreground green -bold -store  
+cmatrix -C red -s && sh passbox.sh
